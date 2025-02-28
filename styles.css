@@ -1,0 +1,58 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 380PX;
+   
+
+}
+body{
+    color: #121212;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border: 3px solid #121212;
+}
+#text{
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #121212;
+    width: 200px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: smaller;
+    padding: 7px;
+    
+}
+#btn{
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #121212;
+    width: 220px;
+    color: white;
+    background: black;
+    font-weight: bold;
+    font-size: smaller;
+    padding: 7px;
+    
+}
+
+a{
+    margin-bottom: auto;
+    font-style: italic;
+    font-weight :500;
+    color: black;
+}
+img+p{
+    text-align: start;
+    text-shadow: 0px 0px 1px;
+    display: block;
+    margin: 20XP auto 53px auto;
+}
+#img{
+   border: 3px solid black;
+}
+#x{
+    margin: 20px;
+}
